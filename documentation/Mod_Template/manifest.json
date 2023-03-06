@@ -2,7 +2,7 @@
     "description": "MOD DESCRIPTION GOES HERE",
     "developer":
     {
-        "name": "DEVELOPER NAME GOES HERE"
+        "name": "dippyw"
     },
     "icons":
     {
@@ -164,8 +164,8 @@
                 "dark":
                 {   
                     "image": "wallpaper/dark.png",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#757575"
+                    "text_color": "##6e696b",
+                    "text_shadow": "##960f0f"
                 },
                 "light":
                 {
@@ -178,6 +178,6 @@
         },
         "schema_version": 1
     },
-    "name": "MOD NAME GOES HERE",
+    "name": "aspiredkark",
     "version": "1.0"
 }
